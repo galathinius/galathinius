@@ -1,4 +1,4 @@
-### Hi there 👋
+### umm
 
 <!--
 **galathinius/galathinius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![galathinius' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galathinius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
 [![galathinius' GitHub stats](https://github-readme-stats.vercel.app/api?username=galathinius)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galathinius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
